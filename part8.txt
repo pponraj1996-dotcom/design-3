@@ -1,2 +1,1 @@
 city name tuticorin
-city name none
